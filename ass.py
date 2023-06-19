@@ -164,7 +164,7 @@ p2 = Product("mango", 2.0, 5)
 p3 = Product("cake", 3.0, 3)
 
 total_value = p1.total_value() + p2.total_value() + p3.total_value()
-print("Total value of all products: ", total_value)
+print("Total value of all product=", total_value)
 
 
 
